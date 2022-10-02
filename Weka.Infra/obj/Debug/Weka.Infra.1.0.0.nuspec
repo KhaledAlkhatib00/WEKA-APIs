@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Weka.Infra</id>
+    <version>1.0.0</version>
+    <authors>Weka.Infra</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Weka.Core" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Infra\bin\Debug\netcoreapp3.1\Weka.Infra.dll" target="lib\netcoreapp3.1\Weka.Infra.dll" />
+  </files>
+</package>

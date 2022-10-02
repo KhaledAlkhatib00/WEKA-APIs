@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weka.API", "Weka.API\Weka.API.csproj", "{465BEC50-78CB-4D6E-919A-ADDA9F070E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weka.Infra", "Weka.Infra\Weka.Infra.csproj", "{3FFB0DEF-7559-44A0-8475-1B68FAABEC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weka.Core", "Weka.Core\Weka.Core.csproj", "{9345F7AC-EB4F-4D4C-B004-F6F797379F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465BEC50-78CB-4D6E-919A-ADDA9F070E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465BEC50-78CB-4D6E-919A-ADDA9F070E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465BEC50-78CB-4D6E-919A-ADDA9F070E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465BEC50-78CB-4D6E-919A-ADDA9F070E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFB0DEF-7559-44A0-8475-1B68FAABEC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFB0DEF-7559-44A0-8475-1B68FAABEC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFB0DEF-7559-44A0-8475-1B68FAABEC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFB0DEF-7559-44A0-8475-1B68FAABEC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9345F7AC-EB4F-4D4C-B004-F6F797379F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9345F7AC-EB4F-4D4C-B004-F6F797379F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9345F7AC-EB4F-4D4C-B004-F6F797379F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9345F7AC-EB4F-4D4C-B004-F6F797379F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C56FD611-E619-42E7-93BD-94735D84E3DB}
+	EndGlobalSection
+EndGlobal

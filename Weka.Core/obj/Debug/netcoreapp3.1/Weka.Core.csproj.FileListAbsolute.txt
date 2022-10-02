@@ -1,0 +1,80 @@
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.AssemblyReference.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfoInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfo.cs
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.CoreCompileInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.deps.json
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.deps.json
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.AssemblyReference.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfoInputs.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfo.cs
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.CoreCompileInputs.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.deps.json
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.AssemblyReference.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfoInputs.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfo.cs
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.CoreCompileInputs.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.deps.json
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.AssemblyReference.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfoInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfo.cs
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.CoreCompileInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.deps.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.AssemblyReference.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfoInputs.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfo.cs
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.CoreCompileInputs.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.pdb
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.deps.json
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.AssemblyReference.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfoInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfo.cs
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.CoreCompileInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.pdb
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.deps.json
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.AssemblyReference.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfoInputs.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfo.cs
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.CoreCompileInputs.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.deps.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.AssemblyReference.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfoInputs.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.AssemblyInfo.cs
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.csproj.CoreCompileInputs.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.Core\obj\Debug\netcoreapp3.1\Weka.Core.pdb

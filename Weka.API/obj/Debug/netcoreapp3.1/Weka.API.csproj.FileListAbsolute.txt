@@ -1,0 +1,772 @@
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.AssemblyReference.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfoInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfo.cs
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CoreCompileInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.MvcApplicationPartsAssemblyInfo.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.exe
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.deps.json
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.json
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.dev.json
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.Manifest.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.RazorTargetAssemblyInfo.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CopyComplete
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.genruntimeconfig.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.exe
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.deps.json
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.json
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.dev.json
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.pdb
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.pdb
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.AssemblyReference.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfoInputs.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfo.cs
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CoreCompileInputs.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.Manifest.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.xml
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Weka.API.styles.css
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.RazorTargetAssemblyInfo.cache
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CopyComplete
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.dll
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.pdb
+C:\Users\alkha\Desktop\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.genruntimeconfig.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.StaticWebAssets.xml
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.exe
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.deps.json
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.json
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.dev.json
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.pdb
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.pdb
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.AssemblyReference.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfoInputs.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfo.cs
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CoreCompileInputs.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.Manifest.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.RazorTargetAssemblyInfo.cache
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CopyComplete
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.dll
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.pdb
+C:\Users\luq_m\Downloads\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.genruntimeconfig.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.StaticWebAssets.xml
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.exe
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.deps.json
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.json
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.dev.json
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.AssemblyReference.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfoInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfo.cs
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CoreCompileInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.MvcApplicationPartsAssemblyInfo.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.Manifest.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.RazorTargetAssemblyInfo.cache
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CopyComplete
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.dll
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.pdb
+E:\SK-Programer\Full_Stack\Final Project\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.genruntimeconfig.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.exe
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.deps.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.dev.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.AssemblyReference.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfoInputs.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfo.cs
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CoreCompileInputs.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.Manifest.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.xml
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Weka.API.styles.css
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.RazorTargetAssemblyInfo.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CopyComplete
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\Weka\Weka2\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.genruntimeconfig.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.StaticWebAssets.xml
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.exe
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.deps.json
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.json
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.dev.json
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.pdb
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.pdb
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.AssemblyReference.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfoInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfo.cs
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CoreCompileInputs.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.MvcApplicationPartsAssemblyInfo.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.Manifest.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.RazorTargetAssemblyInfo.cache
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CopyComplete
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.dll
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.pdb
+E:\SK-Programer\Full_Stack\Final Project\New folder 3\WekaV5Back\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.genruntimeconfig.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.exe
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.deps.json
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.json
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.dev.json
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.pdb
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.pdb
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.AssemblyReference.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfoInputs.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfo.cs
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CoreCompileInputs.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.Manifest.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.xml
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Weka.API.styles.css
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.RazorTargetAssemblyInfo.cache
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CopyComplete
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.dll
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.pdb
+D:\Downlods\Temp\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.genruntimeconfig.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.exe
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.deps.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.runtimeconfig.dev.json
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.API.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Core.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\bin\Debug\netcoreapp3.1\Weka.Infra.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.AssemblyReference.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfoInputs.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.AssemblyInfo.cs
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CoreCompileInputs.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.Manifest.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\staticwebassets\Weka.API.StaticWebAssets.xml
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Weka.API.styles.css
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.RazorTargetAssemblyInfo.cache
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.csproj.CopyComplete
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.dll
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.pdb
+C:\Users\alkha\Desktop\دراسة\tahaluf\11-Final Project\WekaBack Final\Weka\Weka.API\obj\Debug\netcoreapp3.1\Weka.API.genruntimeconfig.cache
